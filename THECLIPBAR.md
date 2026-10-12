@@ -1,10 +1,14 @@
 # TheClipBar: visual clip analysis
 
+## Active workflow
+
+The local ClipBar preparation workflow was installed and tested on the connected Mac on 2026-10-12. Use [WORKFLOW.md](WORKFLOW.md) for the working commands, tested settings, dependency snapshot, and validation results. The original source-copy review below records the earlier stage before installation.
+
 Reviewed on 2026-10-12. This repository is a source fork of [bradautomates/claude-video](https://github.com/bradautomates/claude-video), selected from the account's starred repositories.
 
 Reviewed upstream commit: `03ceb42f7fa2c4439aca01752118044baabffb8f`.
 
-## Status
+## Original copy record, before activation
 
 - The source was copied and its initial commit was verified against the reviewed upstream commit.
 - GitHub Actions are disabled on this fork. No workflow runs were present when checked.
