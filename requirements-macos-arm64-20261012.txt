@@ -1,0 +1,31 @@
+# TheClipBar validated macOS ARM64 runtime dependency versions
+# Recorded 2026-10-12. These are version pins, not artifact hashes.
+# Install yt-dlp and openai-whisper from the reviewed local fork checkouts,
+# together with these 27 dependencies. See WORKFLOW.md for the source commits.
+brotli==1.2.0
+certifi==2026.7.22
+charset-normalizer==3.5.2
+filelock==4.1.1
+fsspec==2026.9.0
+idna==3.20
+jinja2==3.1.6
+llvmlite==0.50.0
+markupsafe==3.0.4
+more-itertools==11.1.0
+mpmath==1.3.0
+mutagen==1.48.1
+networkx==3.6.1
+numba==0.68.0
+numpy==2.4.6
+pycryptodomex==3.24.1
+regex==2026.9.29
+requests==2.34.2
+setuptools==84.0.0
+sympy==1.14.0
+tiktoken==0.14.0
+torch==2.14.1
+tqdm==4.70.1
+typing-extensions==4.16.0
+urllib3==2.8.0
+websockets==17.2
+yt-dlp-ejs==0.8.0
